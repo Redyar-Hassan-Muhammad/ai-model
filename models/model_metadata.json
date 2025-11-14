@@ -12,11 +12,11 @@
     "model_architecture": "64-32-16",
     "input_features": 8,
     "training_samples": 537,
-    "epochs_trained": 30,
-    "test_accuracy": 0.75,
-    "test_precision": 0.6875,
-    "test_recall": 0.5365853658536586,
-    "test_f1_score": 0.6027397260273972,
-    "roc_auc": 0.8491056910569105,
-    "saved_at": "2025-11-14 10:33:34"
+    "epochs_trained": 33,
+    "test_accuracy": 0.7413793206214905,
+    "test_precision": 0.7037037037037037,
+    "test_recall": 0.4634146341463415,
+    "test_f1_score": 0.5588235294117647,
+    "roc_auc": 0.8497560975609756,
+    "saved_at": "2025-11-14 15:30:20"
 }

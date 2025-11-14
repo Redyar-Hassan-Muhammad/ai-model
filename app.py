@@ -609,7 +609,7 @@ def main():
             <p>Powered by Deep Learning | Built with TensorFlow & Streamlit</p>
             <p>By 4 ISE students</p>
             <p>Mohammed Kamal | Aysha Raqib | Redyar Hasan | Rayan Husein</p>
-            <p>© 2024 - For Educational and Research Purposes</p>
+            <p>© 2025 - For Educational and Research Purposes</p>
         </div>
         """,
         unsafe_allow_html=True
