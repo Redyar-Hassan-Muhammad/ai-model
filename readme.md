@@ -32,7 +32,7 @@ A complete AI-powered diabetes prediction system with a beautiful web interface 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/diabetes-prediction-system.git
+git clone https://github.com/Redyar-Hassan-Muhammad/ai-model
 cd diabetes-prediction-system
 ```
 
